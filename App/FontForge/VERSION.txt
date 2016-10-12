@@ -1,10 +1,20 @@
 FontForge Windows build (32-bit)
-Thu, Apr  7, 2016  2:13:40 PM +0800
-efd18a47d47ffc12a3e1812c528d44d8bd2c5333 [april-2016-release-prefsgui]
-Based on master: 325d50e6c499c2e688a10bfaade8aaa029d385a1
+Tue, Oct  4, 2016  9:07:26 PM +0800
+f72e17e105afb8d934cadac0e738443f00ef6553 [2016-october-release]
+Based on master: 072edb0235cd163d6c3391da9cc3754c3c66f47a
 
 A copy of the changelog follows.
 
+04/10/16:
+* Sync with the 20161005 release.
+* Upgrade to Freetype 2.7.
+23/09/16:
+* Also bundle ssleay32.dll for the Python ssl module.
+14/09/16:
+* Updated application icons (finally)
+  You may need to clear your icon cache for it to take effect.
+13-08-16:
+* Sync with git master (prerelease)
 07-04-16:
 * Fix crash in kern pairs dialogue (#2681)
 * Fix preferences dialogue being too large (#2675)
