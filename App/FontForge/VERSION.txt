@@ -1,10 +1,22 @@
 FontForge Windows build (32-bit)
-Tue, Oct  4, 2016  9:07:26 PM +0800
-f72e17e105afb8d934cadac0e738443f00ef6553 [2016-october-release]
-Based on master: 072edb0235cd163d6c3391da9cc3754c3c66f47a
+Mon, Jul 31, 2017  8:07:58 PM +1000
+8b6e7f07a5511e4de9c8a710db6ca8e770de8f4e [heads/2017-august-release]
+Based on master: bbe2d0d6259334cf291505d9dd91f19a4a664122
 
 A copy of the changelog follows.
 
+31/07/17 (r2):
+* Compile run_fontforge with Visual Studio 2015 to avoid antivirus false positives
+31/07/17:
+* Upgrade to Pango 1.40.7
+* Sync with the 20170731 release
+17/06/17:
+* Upgrade to Freetype 2.8
+* Upgrade to Cairo 1.15.6
+* Upgrade to Pango 1.40.6
+* Rebuild all X11 dependencies from git master
+13/10/16:
+* Minor release to fix some crashes (20161012 release)
 04/10/16:
 * Sync with the 20161005 release.
 * Upgrade to Freetype 2.7.

@@ -1,3 +1,15 @@
+31/07/17 (r2):
+* Compile run_fontforge with Visual Studio 2015 to avoid antivirus false positives
+31/07/17:
+* Upgrade to Pango 1.40.7
+* Sync with the 20170731 release
+17/06/17:
+* Upgrade to Freetype 2.8
+* Upgrade to Cairo 1.15.6
+* Upgrade to Pango 1.40.6
+* Rebuild all X11 dependencies from git master
+13/10/16:
+* Minor release to fix some crashes (20161012 release)
 04/10/16:
 * Sync with the 20161005 release.
 * Upgrade to Freetype 2.7.
